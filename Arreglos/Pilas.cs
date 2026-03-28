@@ -32,7 +32,7 @@
             }
 
             _tope--;
-            _arreglo[_tope] = "";
+            _arreglo[_tope] = null;
 
         }
 
